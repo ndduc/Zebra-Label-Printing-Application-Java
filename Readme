@@ -1,0 +1,17 @@
+Eveyone is welcome to make modification and request for this project.
+Brief explanation.
+ Application works with Zebra printer model LP2824 plust and Qln320.
+ Mssql server was used as the test database.
+ Application contain 3 user graphic interfaces.
+                    gui_printer: 
+                              -Main user graphic interfaces.
+                              -Support label's size 2-1/4 x 1-1/4.
+                              -Upc format is EAN-13.
+                              -Information on label includes description, price, section, and barcode.            
+                    gui_mod:     
+                              -Free form.
+                              -Support label's size 2-1/4 x 1-1/4.
+                              -Contains 5 textboxes, users are allowed to input anything.
+                    gui_setup:
+                              -Setup panel.
+                              -Contains information such as ip address, tcp, database name,...etc.
